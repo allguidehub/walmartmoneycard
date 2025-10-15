@@ -7,7 +7,7 @@ Get Started with Secure Access, Reloads, and Online Management
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.walmartmoneycard.com/activate" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://link72.com/?GZGqGXnYcaJAcLzUTbb91fxMW9RC506Yh4p4bIHPKuGNloHwpplpyBebcyyfIFx9KyVodoqeCz" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Your Walmart MoneyCard
         </a>
     </div>
@@ -94,13 +94,13 @@ Spend with confidence and manage your finances with ease.
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.walmartmoneycard.com/activate" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?GZGqGXnYcaJAcLzUTbb91fxMW9RC506Yh4p4bIHPKuGNloHwpplpyBebcyyfIFx9KyVodoqeCz" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate Card Now
         </a>
-        <a href="https://www.walmartmoneycard.com" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?GZGqGXnYcaJAcLzUTbb91fxMW9RC506Yh4p4bIHPKuGNloHwpplpyBebcyyfIFx9KyVodoqeCz" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Walmart MoneyCard Home
         </a>
-        <a href="https://www.walmartmoneycard.com/account" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?GZGqGXnYcaJAcLzUTbb91fxMW9RC506Yh4p4bIHPKuGNloHwpplpyBebcyyfIFx9KyVodoqeCz" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Manage My Account
         </a>
     </div>
